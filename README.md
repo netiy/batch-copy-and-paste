@@ -7,7 +7,7 @@ This script is here to make your life much easier when it comes to CTRL-C, CTRL-
 To use this script, you will need to have Python 3.x installed. No additional libraries are required.
 
 ## Usage
-** :warning: :warning: The script overwrites the existing file, so it is recommended to backup the files before using this script.**
+:warning: **The script overwrites the existing file, so it is recommended to backup the files before using this script.** :warning:
 1. Run the script and enter the path to the folder containing the files you wish to paste to.
 2. Enter the file extension of the files you wish to modify, or leave it blank if you want to edit every file in the folder.
 3. Type or paste in the new text you want to replace the old text with. **Type "please stop 837" (without quotes) to save the new text.**
